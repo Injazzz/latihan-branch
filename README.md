@@ -2,4 +2,6 @@
 
 ini adalah repository untuk membuat branch baru digithub
 --
-Belajar du GitHub itu Asyik lo!
+
+Belajar di GitHub itu Seru!
+
